@@ -1,0 +1,123 @@
+html, body {
+    height: 1%;
+    background-size: cover;
+    background-image: Url(file:///C:/Users/LENOVO/Desktop/serioSTRONA/obrazy/st.png);
+}
+
+.vip1 {
+    top: 380px; bottom: 0px; right: 0px; left: 360px;
+    position: absolute;
+    color: rgb(255, 179, 0);
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 300px;
+    height: 30px;
+}
+.vip1:hover {
+    transition: font-size 200ms;
+    transition: left 200ms;
+    transition: bold 700ms bold 700ms;
+    color: rgb(195, 255, 0);
+    font-weight: bold;
+    left: 325px;
+    font-size: 30px;
+    width: 310px;
+    height: 40px;
+}
+.vip1c {
+    top: 440px; bottom: 0px; right: 0px; left: 450px;
+    position: absolute;
+    color: rgb(255, 30, 0);
+    font-size: 18px;
+    font-family: monospace;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+.vip2 {
+    top: 380px; bottom: 0px; right: 0px; left: 960px;
+    position: absolute;
+    color: rgb(255, 179, 0);
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 300px;
+    height: 30px;
+}
+.vip2:hover {
+    transition: font-size 200ms;
+    transition: left 200ms;
+    transition: bold 700ms bold 700ms;
+    color: rgb(195, 255, 0);
+    font-weight: bold;
+    left: 925px;
+    font-size: 30px;
+    width: 310px;
+    height: 40px;
+}
+.vip2c {
+    top: 440px; bottom: 0px; right: 0px; left: 1050px;
+    position: absolute;
+    color: rgb(255, 30, 0);
+    font-size: 18px;
+    font-family: monospace;
+    width: 30px;
+    height: 30px;
+}
+
+.vip2B {
+    top: 490px; bottom: 0px; right: 0px; left: 1000px;
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    font-size: 35px;
+    background-color: rgb(230, 176, 176);
+    border-radius: 20px;
+    border-bottom: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    cursor: pointer;
+    text-align: center;
+    font-family: serif;
+    color: rgb(179, 69, 0);
+}
+.vip2B:hover {
+    width: 180px;
+    height: 60px;
+    font-size: 45px;
+    border-radius: 50px;
+    color: yellow;
+    background-color: rgb(163, 55, 55);
+    transition: all 200ms;
+}
+.vip1B {
+    top: 490px; bottom: 0px; right: 0px; left: 390px;
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    font-size: 35px;
+    background-color: rgb(230, 176, 176);
+    border-radius: 20px;
+    border-bottom: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    cursor: pointer;
+    text-align: center;
+    font-family: serif;
+    color: rgb(179, 69, 0);
+}
+.vip1B:hover {
+    width: 180px;
+    height: 60px;
+    font-size: 45px;
+    border-radius: 50px;
+    color: yellow;
+    background-color: rgb(163, 55, 55);
+    transition: all 200ms;
+}

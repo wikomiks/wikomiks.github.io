@@ -1,0 +1,26 @@
+html, body {
+    height: 1%;
+    background-size: cover;
+    background-image: Url(file:///C:/Users/LENOVO/Desktop/serioSTRONA/obrazy/gra2.png)
+}
+.i {
+    font-size: 35px;
+    width: 1500px;
+    height: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.zakup {
+    font-size: 50px;
+    top: 200px; bottom: 0px; right: 0px; left: 10px;
+    position: absolute;
+    height: 50px;
+    width: 450px;
+    color: aqua;
+}
+.zakup:hover {
+    color: yellow;
+    font-size: 60px;
+    width: 550px;
+    transition: all 200ms;
+}
