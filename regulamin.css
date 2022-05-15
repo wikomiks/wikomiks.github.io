@@ -1,7 +1,7 @@
 html, body {
     height: 1%;
     background-size: cover;
-    background-image: Url(file:///C:/Users/LENOVO/Desktop/serioSTRONA/obrazy/gra3.png);
+    background-image: Url(obrazy/gra3.png);
 }
 .s1 {
     color: rgb(255, 255, 255);
